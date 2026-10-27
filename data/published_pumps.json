@@ -28,5 +28,35 @@
     "gph_10": 5460,
     "gph_14": 4460,
     "date": "2026-10-26"
+  },
+  {
+    "pump_name": "Zoeller 508-0006 Aquanot Fit 508 ProPak 53 Combo",
+    "slug": "zoeller-508-0006-aquanot-fit-508-propak-53-combo-gph-head-loss-calculator",
+    "title": "Zoeller 508-0006 Aquanot Fit 508 ProPak 53 Combo GPH Head-Loss, TDH & Battery Backup Calculator (2026)",
+    "description": "Calculate exact discharge flow (2,040 GPH @ 10ft / 1,800 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Zoeller 508-0006 Aquanot Fit 508 ProPak 53 Combo.",
+    "hp_label": "1/3 HP",
+    "gph_10": 2040,
+    "gph_14": 1800,
+    "date": "2026-10-27"
+  },
+  {
+    "pump_name": "Wayne WSS30Vn 1/2 HP + 12V Smart Battery Backup Combo",
+    "slug": "wayne-wss30vn-12-hp-12v-smart-battery-backup-combo-gph-head-loss-calculator",
+    "title": "Wayne WSS30Vn 1/2 HP + 12V Smart Battery Backup Combo GPH Head-Loss, TDH & Battery Backup Calculator (2026)",
+    "description": "Calculate exact discharge flow (4,300 GPH @ 10ft / 3,940 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Wayne WSS30Vn 1/2 HP + 12V Smart Battery Backup Combo.",
+    "hp_label": "1/2 HP",
+    "gph_10": 4300,
+    "gph_14": 3940,
+    "date": "2026-10-27"
+  },
+  {
+    "pump_name": "Wayne CDU800 1/2 HP Cast Iron Submersible Sump Pump",
+    "slug": "wayne-cdu800-12-hp-cast-iron-submersible-sump-pump-gph-head-loss-calculator",
+    "title": "Wayne CDU800 1/2 HP Cast Iron Submersible Sump Pump GPH Head-Loss, TDH & Battery Backup Calculator (2026)",
+    "description": "Calculate exact discharge flow (4,200 GPH @ 10ft / 3,660 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Wayne CDU800 1/2 HP Cast Iron Submersible Sump Pump.",
+    "hp_label": "1/2 HP",
+    "gph_10": 4200,
+    "gph_14": 3660,
+    "date": "2026-10-27"
   }
 ]

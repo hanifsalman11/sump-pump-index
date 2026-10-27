@@ -58,5 +58,35 @@
     "gph_10": 4200,
     "gph_14": 3660,
     "date": "2026-10-27"
+  },
+  {
+    "pump_name": "Wayne CDU980E 3/4 HP Stainless & Cast Iron Sump Pump",
+    "slug": "wayne-cdu980e-34-hp-stainless-cast-iron-sump-pump-gph-head-loss-calculator",
+    "title": "Wayne CDU980E 3/4 HP Stainless & Cast Iron Sump Pump GPH Head-Loss, TDH & Battery Backup Calculator (2026)",
+    "description": "Calculate exact discharge flow (4,600 GPH @ 10ft / 4,200 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Wayne CDU980E 3/4 HP Stainless & Cast Iron Sump Pump.",
+    "hp_label": "3/4 HP",
+    "gph_10": 4600,
+    "gph_14": 4200,
+    "date": "2026-10-27"
+  },
+  {
+    "pump_name": "Wayne ESP25 12V DC Battery Backup Sump Pump System",
+    "slug": "wayne-esp25-12v-dc-battery-backup-sump-pump-system-gph-head-loss-calculator",
+    "title": "Wayne ESP25 12V DC Battery Backup Sump Pump System GPH Head-Loss, TDH & Battery Backup Calculator (2026)",
+    "description": "Calculate exact discharge flow (2,300 GPH @ 10ft / 1,850 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Wayne ESP25 12V DC Battery Backup Sump Pump System.",
+    "hp_label": "1/3 HP",
+    "gph_10": 2300,
+    "gph_14": 1850,
+    "date": "2026-10-27"
+  },
+  {
+    "pump_name": "Liberty Pumps 257 1/3 HP Cast Iron Vertical Float Sump",
+    "slug": "liberty-pumps-257-13-hp-cast-iron-vertical-float-sump-gph-head-loss-calculator",
+    "title": "Liberty Pumps 257 1/3 HP Cast Iron Vertical Float Sump GPH Head-Loss, TDH & Battery Backup Calculator (2026)",
+    "description": "Calculate exact discharge flow (2,280 GPH @ 10ft / 1,960 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Liberty Pumps 257 1/3 HP Cast Iron Vertical Float Sump.",
+    "hp_label": "1/3 HP",
+    "gph_10": 2280,
+    "gph_14": 1960,
+    "date": "2026-10-27"
   }
 ]

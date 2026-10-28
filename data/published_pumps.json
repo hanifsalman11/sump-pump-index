@@ -178,5 +178,35 @@
     "gph_10": 2160,
     "gph_14": 1890,
     "date": "2026-10-28"
+  },
+  {
+    "pump_name": "Little Giant 8-CIA 4/10 HP Submersible Cast Iron Sump",
+    "slug": "little-giant-8-cia-410-hp-submersible-cast-iron-sump-gph-head-loss-calculator",
+    "title": "Little Giant 8-CIA 4/10 HP Submersible Cast Iron Sump GPH Head-Loss, TDH & Battery Backup Calculator (2026)",
+    "description": "Calculate exact discharge flow (2,520 GPH @ 10ft / 2,200 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Little Giant 8-CIA 4/10 HP Submersible Cast Iron Sump.",
+    "hp_label": "1/2 HP",
+    "gph_10": 2520,
+    "gph_14": 2200,
+    "date": "2026-10-28"
+  },
+  {
+    "pump_name": "Little Giant 10-CIA 1/2 HP Heavy-Duty Cast Iron Sump",
+    "slug": "little-giant-10-cia-12-hp-heavy-duty-cast-iron-sump-gph-head-loss-calculator",
+    "title": "Little Giant 10-CIA 1/2 HP Heavy-Duty Cast Iron Sump GPH Head-Loss, TDH & Battery Backup Calculator (2026)",
+    "description": "Calculate exact discharge flow (3,660 GPH @ 10ft / 3,420 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Little Giant 10-CIA 1/2 HP Heavy-Duty Cast Iron Sump.",
+    "hp_label": "1/2 HP",
+    "gph_10": 3660,
+    "gph_14": 3420,
+    "date": "2026-10-28"
+  },
+  {
+    "pump_name": "Goulds Water Technology GSP0311 1/3 HP Stainless Sump",
+    "slug": "goulds-water-technology-gsp0311-13-hp-stainless-sump-gph-head-loss-calculator",
+    "title": "Goulds Water Technology GSP0311 1/3 HP Stainless Sump GPH Head-Loss, TDH & Battery Backup Calculator (2026)",
+    "description": "Calculate exact discharge flow (2,460 GPH @ 10ft / 2,140 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Goulds Water Technology GSP0311 1/3 HP Stainless Sump.",
+    "hp_label": "1/3 HP",
+    "gph_10": 2460,
+    "gph_14": 2140,
+    "date": "2026-10-28"
   }
 ]

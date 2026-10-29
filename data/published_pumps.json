@@ -238,5 +238,35 @@
     "gph_10": 2280,
     "gph_14": 1960,
     "date": "2026-10-28"
+  },
+  {
+    "pump_name": "2,000 Sq Ft Basement with High Water Table & Clay Soil",
+    "slug": "2000-sq-ft-basement-with-high-water-table-clay-soil-gph-head-loss-calculator",
+    "title": "2,000 Sq Ft Basement with High Water Table & Clay Soil GPH Head-Loss, TDH & Battery Backup Calculator (2026)",
+    "description": "Calculate exact discharge flow (3,660 GPH @ 10ft / 3,360 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for 2,000 Sq Ft Basement with High Water Table & Clay Soil.",
+    "hp_label": "1/2 HP",
+    "gph_10": 3660,
+    "gph_14": 3360,
+    "date": "2026-10-29"
+  },
+  {
+    "pump_name": "2,500 Sq Ft Deep Basement (12 Ft Vertical Lift) Sizing",
+    "slug": "2500-sq-ft-deep-basement-12-ft-vertical-lift-sizing-gph-head-loss-calculator",
+    "title": "2,500 Sq Ft Deep Basement (12 Ft Vertical Lift) Sizing GPH Head-Loss, TDH & Battery Backup Calculator (2026)",
+    "description": "Calculate exact discharge flow (3,720 GPH @ 10ft / 3,370 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for 2,500 Sq Ft Deep Basement (12 Ft Vertical Lift) Sizing.",
+    "hp_label": "1/2 HP",
+    "gph_10": 3720,
+    "gph_14": 3370,
+    "date": "2026-10-29"
+  },
+  {
+    "pump_name": "3,000 Sq Ft High-Inflow French Drain Basement Sizing",
+    "slug": "3000-sq-ft-high-inflow-french-drain-basement-sizing-gph-head-loss-calculator",
+    "title": "3,000 Sq Ft High-Inflow French Drain Basement Sizing GPH Head-Loss, TDH & Battery Backup Calculator (2026)",
+    "description": "Calculate exact discharge flow (4,600 GPH @ 10ft / 4,200 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for 3,000 Sq Ft High-Inflow French Drain Basement Sizing.",
+    "hp_label": "3/4 HP",
+    "gph_10": 4600,
+    "gph_14": 4200,
+    "date": "2026-10-29"
   }
 ]

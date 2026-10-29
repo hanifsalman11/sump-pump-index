@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/sump-pump-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>House GPH Head-Loss, TDH & Battery Backup Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/sump-pump-index/house-gph-head-loss-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/sump-pump-index/house-gph-head-loss-calculator.html</guid>
+      <description>Calculate exact discharge flow (2,150 GPH @ 10ft / 1,860 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for House.</description>
+    </item>
+    <item>
+      <title>Crawl Space GPH Head-Loss, TDH & Battery Backup Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/sump-pump-index/crawl-space-gph-head-loss-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/sump-pump-index/crawl-space-gph-head-loss-calculator.html</guid>
+      <description>Calculate exact discharge flow (2,150 GPH @ 10ft / 1,860 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Crawl Space.</description>
+    </item>
+    <item>
+      <title>Basement GPH Head-Loss, TDH & Battery Backup Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/sump-pump-index/basement-gph-head-loss-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/sump-pump-index/basement-gph-head-loss-calculator.html</guid>
+      <description>Calculate exact discharge flow (2,150 GPH @ 10ft / 1,860 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Basement.</description>
+    </item>
+    <item>
       <title>12V 100Ah AGM & LiFePO4 Sump Pump Battery Runtime GPH Head-Loss, TDH & Battery Backup Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/sump-pump-index/12v-100ah-agm-lifepo4-sump-pump-battery-runtime-gph-head-loss-calculator.html</link>
       <guid>https://hanifsalman11.github.io/sump-pump-index/12v-100ah-agm-lifepo4-sump-pump-battery-runtime-gph-head-loss-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/sump-pump-index/zoeller-508-0006-aquanot-fit-508-propak-53-combo-gph-head-loss-calculator.html</link>
       <guid>https://hanifsalman11.github.io/sump-pump-index/zoeller-508-0006-aquanot-fit-508-propak-53-combo-gph-head-loss-calculator.html</guid>
       <description>Calculate exact discharge flow (2,040 GPH @ 10ft / 1,800 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Zoeller 508-0006 Aquanot Fit 508 ProPak 53 Combo.</description>
-    </item>
-    <item>
-      <title>Zoeller M267 Waste-Mate 1/2 HP Heavy-Duty Sewage/Sump GPH Head-Loss, TDH & Battery Backup Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/sump-pump-index/zoeller-m267-waste-mate-12-hp-heavy-duty-sewagesump-gph-head-loss-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/sump-pump-index/zoeller-m267-waste-mate-12-hp-heavy-duty-sewagesump-gph-head-loss-calculator.html</guid>
-      <description>Calculate exact discharge flow (5,460 GPH @ 10ft / 4,460 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Zoeller M267 Waste-Mate 1/2 HP Heavy-Duty Sewage/Sump.</description>
-    </item>
-    <item>
-      <title>Zoeller M98 Flow-Mate 1/2 HP Cast Iron Sump Pump GPH Head-Loss, TDH & Battery Backup Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/sump-pump-index/zoeller-m98-flow-mate-12-hp-cast-iron-sump-pump-gph-head-loss-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/sump-pump-index/zoeller-m98-flow-mate-12-hp-cast-iron-sump-pump-gph-head-loss-calculator.html</guid>
-      <description>Calculate exact discharge flow (3,660 GPH @ 10ft / 3,360 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Zoeller M98 Flow-Mate 1/2 HP Cast Iron Sump Pump.</description>
-    </item>
-    <item>
-      <title>Zoeller M53 Mighty-Mate 1/3 HP Cast Iron Sump Pump GPH Head-Loss, TDH & Battery Backup Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/sump-pump-index/zoeller-m53-mighty-mate-13-hp-cast-iron-sump-pump-gph-head-loss-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/sump-pump-index/zoeller-m53-mighty-mate-13-hp-cast-iron-sump-pump-gph-head-loss-calculator.html</guid>
-      <description>Calculate exact discharge flow (2,040 GPH @ 10ft / 1,800 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Zoeller M53 Mighty-Mate 1/3 HP Cast Iron Sump Pump.</description>
     </item>
   </channel>
 </rss>

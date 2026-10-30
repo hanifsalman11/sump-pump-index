@@ -358,5 +358,35 @@
     "gph_10": 2150,
     "gph_14": 1860,
     "date": "2026-10-30"
+  },
+  {
+    "pump_name": "Basement Bathroom",
+    "slug": "basement-bathroom-gph-head-loss-calculator",
+    "title": "Basement Bathroom GPH Head-Loss, TDH & Battery Backup Calculator (2026)",
+    "description": "Calculate exact discharge flow (2,150 GPH @ 10ft / 1,860 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Basement Bathroom.",
+    "hp_label": "1/3 HP",
+    "gph_10": 2150,
+    "gph_14": 1860,
+    "date": "2026-10-30"
+  },
+  {
+    "pump_name": "Residential House",
+    "slug": "residential-house-gph-head-loss-calculator",
+    "title": "Residential House GPH Head-Loss, TDH & Battery Backup Calculator (2026)",
+    "description": "Calculate exact discharge flow (2,150 GPH @ 10ft / 1,860 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Residential House.",
+    "hp_label": "1/3 HP",
+    "gph_10": 2150,
+    "gph_14": 1860,
+    "date": "2026-10-30"
+  },
+  {
+    "pump_name": "What  Sump Pump To Drain Pool",
+    "slug": "what-sump-pump-to-drain-pool-gph-head-loss-calculator",
+    "title": "What  Sump Pump To Drain Pool GPH Head-Loss, TDH & Battery Backup Calculator (2026)",
+    "description": "Calculate exact discharge flow (2,150 GPH @ 10ft / 1,860 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for What  Sump Pump To Drain Pool.",
+    "hp_label": "1/3 HP",
+    "gph_10": 2150,
+    "gph_14": 1860,
+    "date": "2026-10-30"
   }
 ]

@@ -448,5 +448,35 @@
     "gph_10": 2150,
     "gph_14": 1860,
     "date": "2026-10-31"
+  },
+  {
+    "pump_name": "Zoeller Sump Pump Float Switch",
+    "slug": "zoeller-sump-pump-float-switch-gph-head-loss-calculator",
+    "title": "Zoeller Sump Pump Float Switch GPH Head-Loss, TDH & Battery Backup Calculator (2026)",
+    "description": "Calculate exact discharge flow (2,150 GPH @ 10ft / 1,860 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Zoeller Sump Pump Float Switch.",
+    "hp_label": "1/3 HP",
+    "gph_10": 2150,
+    "gph_14": 1860,
+    "date": "2026-10-31"
+  },
+  {
+    "pump_name": "Zoeller Sump Pump Check Valve",
+    "slug": "zoeller-sump-pump-check-valve-gph-head-loss-calculator",
+    "title": "Zoeller Sump Pump Check Valve GPH Head-Loss, TDH & Battery Backup Calculator (2026)",
+    "description": "Calculate exact discharge flow (2,150 GPH @ 10ft / 1,860 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Zoeller Sump Pump Check Valve.",
+    "hp_label": "1/3 HP",
+    "gph_10": 2150,
+    "gph_14": 1860,
+    "date": "2026-10-31"
+  },
+  {
+    "pump_name": "Zoeller Sump Pump M98",
+    "slug": "zoeller-sump-pump-m98-gph-head-loss-calculator",
+    "title": "Zoeller Sump Pump M98 GPH Head-Loss, TDH & Battery Backup Calculator (2026)",
+    "description": "Calculate exact discharge flow (3,660 GPH @ 10ft / 3,360 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Zoeller Sump Pump M98.",
+    "hp_label": "1/2 HP",
+    "gph_10": 3660,
+    "gph_14": 3360,
+    "date": "2026-10-31"
   }
 ]

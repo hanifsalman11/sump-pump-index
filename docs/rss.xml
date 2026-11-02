@@ -7,6 +7,18 @@
     <atom:link href="https://hanifsalman11.github.io/sump-pump-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Sump Pump Battery Backup Options GPH Head-Loss, TDH & Battery Backup Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/sump-pump-index/sump-pump-battery-backup-options-gph-head-loss-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/sump-pump-index/sump-pump-battery-backup-options-gph-head-loss-calculator.html</guid>
+      <description>Calculate exact discharge flow (2,150 GPH @ 10ft / 1,860 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Sump Pump Battery Backup Options.</description>
+    </item>
+    <item>
+      <title>How Long Will Battery Backup Sump Pump Run GPH Head-Loss, TDH & Battery Backup Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/sump-pump-index/how-long-will-battery-backup-sump-pump-run-gph-head-loss-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/sump-pump-index/how-long-will-battery-backup-sump-pump-run-gph-head-loss-calculator.html</guid>
+      <description>Calculate exact discharge flow (2,150 GPH @ 10ft / 1,860 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for How Long Will Battery Backup Sump Pump Run.</description>
+    </item>
+    <item>
       <title>Sump Pump Battery Backup Run Time GPH Head-Loss, TDH & Battery Backup Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/sump-pump-index/sump-pump-battery-backup-run-time-gph-head-loss-calculator.html</link>
       <guid>https://hanifsalman11.github.io/sump-pump-index/sump-pump-battery-backup-run-time-gph-head-loss-calculator.html</guid>
@@ -173,18 +185,6 @@
       <link>https://hanifsalman11.github.io/sump-pump-index/hot-tub-gph-head-loss-calculator.html</link>
       <guid>https://hanifsalman11.github.io/sump-pump-index/hot-tub-gph-head-loss-calculator.html</guid>
       <description>Calculate exact discharge flow (2,150 GPH @ 10ft / 1,860 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Hot Tub.</description>
-    </item>
-    <item>
-      <title>Washing Machine GPH Head-Loss, TDH & Battery Backup Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/sump-pump-index/washing-machine-gph-head-loss-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/sump-pump-index/washing-machine-gph-head-loss-calculator.html</guid>
-      <description>Calculate exact discharge flow (2,150 GPH @ 10ft / 1,860 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Washing Machine.</description>
-    </item>
-    <item>
-      <title>Tankless Water Heater GPH Head-Loss, TDH & Battery Backup Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/sump-pump-index/tankless-water-heater-gph-head-loss-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/sump-pump-index/tankless-water-heater-gph-head-loss-calculator.html</guid>
-      <description>Calculate exact discharge flow (2,150 GPH @ 10ft / 1,860 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Tankless Water Heater.</description>
     </item>
   </channel>
 </rss>

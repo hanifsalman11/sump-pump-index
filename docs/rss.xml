@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/sump-pump-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Sump Pump Battery Backup Run Time GPH Head-Loss, TDH & Battery Backup Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/sump-pump-index/sump-pump-battery-backup-run-time-gph-head-loss-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/sump-pump-index/sump-pump-battery-backup-run-time-gph-head-loss-calculator.html</guid>
+      <description>Calculate exact discharge flow (2,150 GPH @ 10ft / 1,860 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Sump Pump Battery Backup Run Time.</description>
+    </item>
+    <item>
+      <title>Wayne Sump Pump Vs Zoeller GPH Head-Loss, TDH & Battery Backup Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/sump-pump-index/wayne-sump-pump-vs-zoeller-gph-head-loss-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/sump-pump-index/wayne-sump-pump-vs-zoeller-gph-head-loss-calculator.html</guid>
+      <description>Calculate exact discharge flow (2,150 GPH @ 10ft / 1,860 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Wayne Sump Pump Vs Zoeller.</description>
+    </item>
+    <item>
+      <title>Wayne Sump Pump 1 Hp GPH Head-Loss, TDH & Battery Backup Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/sump-pump-index/wayne-sump-pump-1-hp-gph-head-loss-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/sump-pump-index/wayne-sump-pump-1-hp-gph-head-loss-calculator.html</guid>
+      <description>Calculate exact discharge flow (2,150 GPH @ 10ft / 1,860 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Wayne Sump Pump 1 Hp.</description>
+    </item>
+    <item>
       <title>Wayne Sump Pump Parts GPH Head-Loss, TDH & Battery Backup Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/sump-pump-index/wayne-sump-pump-parts-gph-head-loss-calculator.html</link>
       <guid>https://hanifsalman11.github.io/sump-pump-index/wayne-sump-pump-parts-gph-head-loss-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/sump-pump-index/tankless-water-heater-gph-head-loss-calculator.html</link>
       <guid>https://hanifsalman11.github.io/sump-pump-index/tankless-water-heater-gph-head-loss-calculator.html</guid>
       <description>Calculate exact discharge flow (2,150 GPH @ 10ft / 1,860 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Tankless Water Heater.</description>
-    </item>
-    <item>
-      <title>House GPH Head-Loss, TDH & Battery Backup Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/sump-pump-index/house-gph-head-loss-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/sump-pump-index/house-gph-head-loss-calculator.html</guid>
-      <description>Calculate exact discharge flow (2,150 GPH @ 10ft / 1,860 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for House.</description>
-    </item>
-    <item>
-      <title>Crawl Space GPH Head-Loss, TDH & Battery Backup Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/sump-pump-index/crawl-space-gph-head-loss-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/sump-pump-index/crawl-space-gph-head-loss-calculator.html</guid>
-      <description>Calculate exact discharge flow (2,150 GPH @ 10ft / 1,860 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Crawl Space.</description>
-    </item>
-    <item>
-      <title>Basement GPH Head-Loss, TDH & Battery Backup Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/sump-pump-index/basement-gph-head-loss-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/sump-pump-index/basement-gph-head-loss-calculator.html</guid>
-      <description>Calculate exact discharge flow (2,150 GPH @ 10ft / 1,860 GPH @ 14.5ft TDH), check valve friction loss, and 12V 100Ah battery backup runtime (32.5 hrs) for Basement.</description>
     </item>
   </channel>
 </rss>
